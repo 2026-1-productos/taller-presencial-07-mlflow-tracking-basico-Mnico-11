@@ -1,1 +1,0 @@
-exec "/home/david/Documentos/Productos de datos/taller-presencial-07-mlflow-tracking-basico-JhogertBita/.venv/bin/python" "$@"
